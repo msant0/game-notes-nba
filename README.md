@@ -1,6 +1,6 @@
 # Experiment Lab 🧪
 
-<img src="./frontend/public/1.0-rc1/icon-readme.jpg" style="margin:0 auto;" width="40vh" height="40vh" />
+<center><img src="./frontend/public/1.0-rc1/icon-readme.jpg" style="margin:0 auto;" width="320" height="320" /></center>
 <br>
 
 ## Objective
@@ -11,4 +11,4 @@
 
 ## Presentation
 <br>
-<img src="./frontend/public/1.0-rc1/home.PNG"/>
+<img src="./frontend/public/1.0-rc1/home.gif"/>
