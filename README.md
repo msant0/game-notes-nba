@@ -1,6 +1,6 @@
 # Experiment Lab 🧪
 
-<img src="./frontend/public/1.0-rc1/icon-readme.jpg" style="width:40vh;height:40vh;margin:0 auto;" />
+<img src="./frontend/public/1.0-rc1/icon-readme.jpg" style="margin:0 auto;" width="40vh" height="40vh" />
 <br>
 
 ## Objective
