@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    flex-wrap: wrap;
+    font: 100% Montserrat, sans-serif;
+    background-image: url("../../assets/wallpaper.jpg");
+}
+
+.container {
+    margin: 0 auto;
+    width: 120vh;
+    height: 122vh;
+    margin-top: 15vh;
+    background: rgb(255, 255, 255) transparent;
+    background: rgba(255, 255, 255, 0.7);
+    border-style: outset;
+    border-color: #f0f0f5;
+    border-width: 0.6rem;
+    border-radius: 1.2rem;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#e02041, endColorstr=#e02041);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#e02041, endColorstr=#e02041)";
+
+    text-align: center;
+}
+
+.title-choose-PDF {
+    margin-top: 3vh;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.card-grouping {
+    margin: 3vh 3vh 3vh 6vh;
+
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.card-PDF {
+    width: 16vh;
+    height: 16vh;
+    margin-bottom: 2vh;
+    border-style: outset;
+    border-width: 0.3rem;
+    border-radius: 0.6rem;
+    padding: 2vh 1vh 2vh 1vh;
+
+    background-color: #4F4F4F;
+    border-color: #485460;
+    opacity: 1 !important;
+    cursor: pointer;
+}
+
+.card-PDF:hover {
+    filter: brightness(80%);
+}
+
+.logo-team {
+    width: 75%;
+    height: 75%;
+}
+
+.title-team {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #f0f0f5;
+}
+
+.button-grouping {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.button-file-manipulation {
+    width: 30vh;
+    height: 10vh;
+    margin: 0 1vh 0vh 1vh;
+
+    background-color: #485460;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    cursor: pointer;
+
+    font-size: 1.4rem;
+    color: #f0f0f5;
+    font-style: initial;
+}
