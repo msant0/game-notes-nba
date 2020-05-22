@@ -1,1 +1,14 @@
-# game-notes-nba
+# Experiment Lab 🧪
+
+<img src="./frontend/public/1.0-rc1/icon-readme.jpg"/>
+<br>
+
+## Objective
+* Create a portal for viewing game notes:
+
+<b><i> Presentation </i></b>
+<br>
+<img src="./frontend/public/1.0-rc1/home.PNG"/>
+
+## Technologies
+* React / HTML / CSS
