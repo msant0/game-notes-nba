@@ -8,7 +8,3 @@
 
 ## Technologies
 * React / HTML / CSS
-
-## Presentation
-<br>
-<img src="./frontend/public/1.0-rc1/home.gif"/>
