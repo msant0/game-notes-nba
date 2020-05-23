@@ -8,5 +8,5 @@
 
 <p align="center"><img src="./frontend/public/1.0-rc1/icon-readme.jpg" width="320" height="320" /></p>
 
-<br>
-Licensed under the Mit LICENSE in LICENSE.md
+## Licensed
+<p style="font-size:14px;"><i>Licensed under the Mit LICENSE in LICENSE.md </i></p>
