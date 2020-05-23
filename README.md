@@ -1,10 +1,10 @@
 # Experiment Lab 🧪
 
 ## Objective
-* Create a portal for viewing game notes!
+<p style="font-size:14px;"><i> * Create a portal for viewing game notes! </i></p>
 
 ## Technologies
-* React / HTML / CSS
+<p style="font-size:14px;"><i> * React / HTML / CSS </i></p>
 
 <p align="center"><img src="./frontend/public/1.0-rc1/icon-readme.jpg" width="320" height="320" /></p>
 
