@@ -10,6 +10,10 @@
 <p style="font-size:14px;"><i> * CSS -> Stylization of elements </i></p>
 <p style="font-size:14px;"><i> * HTML -> Hypertext Markup Language </i></p>
 
+## Get started
+<p style="font-size:14px;"><i> * Install dependencies: <b>npm install</b></i></p>
+<p style="font-size:14px;"><i> * Start the application: <b>npm start</b></i></p>
+
 ## Application
 <p align="center"><img src="./frontend/public/1.0-rc1/application.gif" /></p>
 
